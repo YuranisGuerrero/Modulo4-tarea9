@@ -1,0 +1,17 @@
+La estabilidad y la seguridad de un servidor son muy importantes porque 
+muchas comunidades dependen de estas plataformas para compartir información 
+y mantenerse comunicadas. Si el servidor presenta fallas constantes, 
+las personas pueden perder acceso a servicios importantes y disminuir su 
+confianza en la plataforma. También existe el riesgo de pérdida de 
+información o interrupción de actividades que benefician a la comunidad. 
+Por eso es necesario realizar monitoreo, mantener el sistema actualizado 
+y controlar los accesos. Las copias de seguridad también ayudan a proteger 
+la información ante cualquier problema. Un servidor estable permite que los 
+usuarios participen con tranquilidad y encuentren la información cuando la 
+necesiten. Además, fortalece la confianza y mejora la experiencia de quienes 
+utilizan la plataforma diariamente.
+
+
+
+
+
